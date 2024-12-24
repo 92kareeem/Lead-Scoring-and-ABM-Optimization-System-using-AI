@@ -5,31 +5,30 @@ In this lab, we will delve into the foundational concepts of the machine learnin
 
 Machine learning workflow:
 
-Gathering Data:
+1. Gathering Data:
 The first step in the machine learning workflow is collecting relevant data. This could involve obtaining data from various sources such as databases, APIs, or sensors. High-quality and diverse data is crucial for training accurate models.
 
-Data Pre-processing:
+2. Data Pre-processing:
 Raw data often requires cleaning and transformation before being used for training. This step involves handling missing values, normalizing data, and dealing with outliers. Properly pre-processed data ensures model effectiveness and reliability.
 
 Why is Data Pre-processing Essential?
 
-Data pre-processing is a crucial step in refining raw data into a usable format, priming it for model training. Its significance lies in optimizing the performance of applied models within machine learning and deep learning projects.
+3. Data pre-processing is a crucial step in refining raw data into a usable format, priming it for model training. Its significance lies in optimizing the performance of applied models within machine learning and deep learning projects.
 
 In real-world scenarios, data often arrives in an untidy state. Several types of messy data include:
 
-Missing Data: Instances of missing data occur due to irregular creation intervals or technical glitches, as seen in systems like IoT applications.
+4. Missing Data: Instances of missing data occur due to irregular creation intervals or technical glitches, as seen in systems like IoT applications.
 
-Noisy Data: Also known as outliers, noisy data arises from human errors during manual data collection or device-related issues during data acquisition.
+5. Noisy Data: Also known as outliers, noisy data arises from human errors during manual data collection or device-related issues during data acquisition.
 
-Inconsistent Data: Inconsistent data stems from human errors such as naming discrepancies or value inconsistencies, as well as data duplication.
+6. Inconsistent Data: Inconsistent data stems from human errors such as naming discrepancies or value inconsistencies, as well as data duplication.
 
-Selecting the Model:
+7. Selecting the Model:
 Different types of data require different models. Choosing the right model architecture is crucial for achieving optimal performance. Researching and understanding various model types, such as regression, classification, or clustering, helps in making informed decisions.
 
-Training and Testing:
+8. Training and Testing:
 Once a model is selected, it's time to train it using the prepared data. Training involves feeding the model with input data and adjusting its parameters to learn patterns. Testing helps ensure that the model generalizes well to new, unseen data.
 
-Evaluation:
+9. Evaluation:
 After training and testing, model evaluation is essential. Metrics like accuracy, precision, recall, and F1-score help assess the model's performance. This evaluation phase determines whether the model meets the desired criteria and performs effectively in real-world scenarios.
 
-dia
