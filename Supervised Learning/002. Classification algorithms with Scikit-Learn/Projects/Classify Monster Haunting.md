@@ -15,4 +15,7 @@ We will be using the Ghouls, Goblins, and Ghosts dataset from Kaggle for compari
 
 ### Ghouls, Goblins, and Ghosts dataset
 
+https://www.kaggle.com/competitions/ghouls-goblins-and-ghosts-boo/data
+
+
 The dataset consists of various attributes or features describing each creature, such as their bone length, rotting flesh, and hair length. These features serve as input variables for training a multiclass classification model.
