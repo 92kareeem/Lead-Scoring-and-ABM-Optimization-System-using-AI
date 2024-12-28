@@ -1,3 +1,5 @@
+#### Overfitting and Underfitting
+
 In this session, we'll explore two critical concepts in machine learning: overfitting and underfitting. Understanding these concepts is essential for building models that generalize well to new data and make accurate predictions.
 
 In the realm of machine learning, achieving the right balance between model complexity and generalization is crucial. Two key phenomena that exemplify this balance are overfitting and underfitting.
@@ -17,7 +19,7 @@ It's apparent that a simple linear function (polynomial degree 1) struggles to c
 
 To objectively assess the extent of overfitting and underfitting, we employ cross-validation and calculate the mean squared error (MSE) on the validation set. A higher MSE indicates a reduced likelihood of the model generalizing accurately from the training data. This evaluation metric provides a quantitative insight into the performance of the models and helps us determine the optimal degree of polynomial features for minimizing overfitting or underfitting.
 
-Validation curve
+##### Validation curve
 A model that is underfit will have high training and high testing error while an overfit model will have extremely low training error but a high testing error. In this session, we'll delve into a fundamental concept of model evaluation in machine learning known as the validation curve. This graph nicely summarizes the problem of overfitting and underfitting.
 
 ![image](https://github.com/user-attachments/assets/71d21096-60a7-4b73-a0bb-588340f562b1)
