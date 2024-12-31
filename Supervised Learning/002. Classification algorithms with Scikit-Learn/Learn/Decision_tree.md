@@ -55,3 +55,6 @@ We just developed a simple decision tree algorithm:
 ***Decision Trees are a type of Supervised Machine Learning where the data is continuously split according to a certain parameter. The tree can be explained by two entities, namely decision nodes, and leaves. The leaves are the decisions or the outcomes, and the decision nodes are where the data is split. Each split is based on a specific feature and threshold, and it determines the class or outcome associated with specific range of feature values.***
 
 Let's visualize the decision rules in the scatterplot. A decision rule is a set of conditions or criteria that a classifier uses to assign class labels to instances in a dataset. The decision rule defines how the model makes predictions based on the features of the data.
+
+#### QUIZ CLASSIFICATION
+![image](https://github.com/user-attachments/assets/94b11e56-9285-4b15-8085-f04c6a73149b)
