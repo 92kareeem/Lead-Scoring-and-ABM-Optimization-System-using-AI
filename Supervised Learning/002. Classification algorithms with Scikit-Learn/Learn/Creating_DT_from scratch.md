@@ -1,4 +1,4 @@
-#### Creating Decision Tree from scratch.
+#### Creating Decision Tree from scratch.   
 In this lab, we are going to program the query of a decision tree and then calculate some Gini impurities. Scikit-Learn automatically implements all of this, but doing it yourself will help you better understand decision trees.
 
 It is a simple lab with the main objective of introducing you to the fundamentals of one of the simplest models.
