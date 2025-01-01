@@ -51,3 +51,10 @@ This is just a simple example, and in practice, decision trees can be more compl
 
 ##### Conclusion
 In conclusion, this lab provided an introduction to the fundamentals of decision tree models, including the Gini index and the CART algorithm. Through the analysis of example datasets, we gained insight into how decision trees can be used for classification tasks and how they can be interpreted to understand the factors that contribute to predictions. While this lab only scratched the surface of decision tree modeling, it provides a solid foundation for further exploration into more complex models and datasets.
+
+
+#### QUIZ
+
+![image](https://github.com/user-attachments/assets/67cfa6e6-4fa9-4c00-8006-021c51253bae)
+![image](https://github.com/user-attachments/assets/3003b9f1-3da6-4a8d-8a48-f202e022ab44)
+![Uploading image.png…]()
