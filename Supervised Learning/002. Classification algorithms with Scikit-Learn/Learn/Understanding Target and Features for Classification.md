@@ -2,7 +2,7 @@
 During this lab, we will practice your skills in identifying target and feature variables for classification problems.
 
 When identifying the target and features for a classification problem, it's important to consider the following:
-
+    
 Target Variable: The target variable represents the outcome or the variable you want to predict. It should be well-defined and directly related to the problem you are trying to solve. Examples of target variables can be "Fraudulent Transaction" (whether a transaction is fraudulent), or "Loan Default" (whether a borrower will default on a loan).
 
 Features Variables: Features, also known as independent variables or predictors, are the characteristics or attributes that you will use to make predictions or classifications. These variables should be relevant to the target variable and provide valuable information for the prediction task.
