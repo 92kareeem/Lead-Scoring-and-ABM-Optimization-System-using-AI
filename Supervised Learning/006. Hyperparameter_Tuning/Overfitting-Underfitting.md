@@ -1,6 +1,6 @@
 #### Overfitting and Underfitting
 
-In this session, we'll explore two critical concepts in machine learning: overfitting and underfitting. Understanding these concepts is essential for building models that generalize well to new data and make accurate predictions.
+In this session, we'll explore two critical concepts in machine learning: overfitting and underfitting. Understanding these concepts is essential for building models that generalize well to new data and make accurate predictions. 
 
 In the realm of machine learning, achieving the right balance between model complexity and generalization is crucial. Two key phenomena that exemplify this balance are overfitting and underfitting.
 
