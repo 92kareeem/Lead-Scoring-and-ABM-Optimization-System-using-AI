@@ -74,18 +74,6 @@ pytest
 
 </div>
 
-## 📈 Project Structure
-
-```
-Lead-Scoring-and-ABM-Optimization-System-using-AI/
-├── data/                   # Dataset files
-├── models/                 # Trained models
-├── notebooks/              # Jupyter notebooks
-├── src/                    # Source code
-├── tests/                  # Test cases
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
-```
 
 ## 🤝 Contributing
 
