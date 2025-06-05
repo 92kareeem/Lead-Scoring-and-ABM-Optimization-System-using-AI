@@ -1,4 +1,3 @@
-Here's a visually appealing and well-structured `README.md` for your project:
 
 # 🚀 Lead Scoring and ABM Optimization System using AI
 
