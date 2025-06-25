@@ -5,7 +5,7 @@ Deployed on Streamlit : https://ai-lead-scoring.streamlit.app/
 **Transform Leads into Revenue with AI Precision**  
 *Built with ❤️ using Python, Scikit-learn, Pandas, and Plotly*
 
-![AI Lead Scoring](https://img.shields.io/badge/AI-Powered-blue) 
+![AI Lead Scoring](https://img.shields.io/badge/AI-Powered-blue)  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green) 
 ![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-orange)
 
